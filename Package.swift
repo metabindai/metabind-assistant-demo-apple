@@ -9,7 +9,7 @@ let package = Package(
         .visionOS(.v1),
     ],
     dependencies: [
-        .package(url: "https://github.com/metabindai/metabind-ai-apple.git", from: "0.1.0"),
+        .package(url: "https://github.com/metabindai/metabind-ai-apple.git", from: "0.1.2"),
     ],
     targets: [
         .executableTarget(

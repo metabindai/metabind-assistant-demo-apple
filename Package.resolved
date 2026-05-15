@@ -1,13 +1,13 @@
 {
-  "originHash" : "af39cb9272dec7d4b7d20722eb43de5ba1e65d2098cc744e0d20b5e391a2af07",
+  "originHash" : "2b5f2bd0ac46c89c88757635feb749649114c8ac5a75980e41c2dbae5c8e359c",
   "pins" : [
     {
       "identity" : "bindjs-apple-binary",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/metabindai/bindjs-apple-binary.git",
       "state" : {
-        "revision" : "16e5ab2f51674ca4d25d53efbc1e0ecc3346b895",
-        "version" : "1.1.3"
+        "revision" : "5c6cf0b78c4dda6e95aa3c8228fe804217116eef",
+        "version" : "1.1.4"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/metabindai/metabind-ai-apple.git",
       "state" : {
-        "revision" : "93fc9f63ac468adf1ff953cbd8c27531b74b3373",
-        "version" : "0.1.0"
+        "revision" : "6bf230b97c4582ab68d903e8c48a0e4fad3f322a",
+        "version" : "0.1.2"
       }
     }
   ],
